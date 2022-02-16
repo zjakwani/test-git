@@ -1,1 +1,2 @@
 Adding some text
+Someone else added a different feature
